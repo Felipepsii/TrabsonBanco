@@ -1,5 +1,7 @@
 package trab.java.up.model;
 
+import trab.java.up.Pessoa;
+
 public class Funcionario extends Pessoa{
 
 		private double salario;
